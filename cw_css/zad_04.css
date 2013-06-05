@@ -1,0 +1,34 @@
+body {
+	background-image: url(papier.gif);
+  }
+  div.adres {
+      margin-left: auto;
+      margin-right: auto;
+      width: 10em;
+	  background-color: #FFFF00;
+	  border-style: solid;
+	  border-width: 3px;
+	  margin-bottom: 10px;
+	  padding:5px;
+  }
+  span.nazwisko {
+
+      display: block;
+	  color:blue;
+      font-weight: bold;
+      border-bottom: thin solid blue;
+      border-top: thin solid blue;
+  }
+  span.ulica {
+      display: block;
+	  color: #00AA00;
+	  
+  }
+  span.kod {
+		color: #AA0000;
+  }
+  span.miejscowosc {
+  }
+  span.telefon {
+      display: block;
+  }

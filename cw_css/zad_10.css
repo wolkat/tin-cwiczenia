@@ -1,0 +1,24 @@
+body
+{
+	background-color:#C0C0C0;
+}
+
+#menu {
+	background-color:lightgrey;
+	border-style: outset;
+	border-width: 0.7exx;
+	text-align: center;
+	padding: 1ex;
+}
+
+.el_menu a:link, .el_menu a:visited{
+	border: 0.3ex outset #000000;
+	color: #AA0000;
+	text-decoration: none;
+	padding: 0.3ex;
+}
+
+.el_menu a:hover{
+	border: 0.3ex inset #000000;
+	background-color: #FFFFFF;
+}

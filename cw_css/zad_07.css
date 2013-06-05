@@ -1,0 +1,16 @@
+div.C {
+float:left;
+}
+
+div{
+position:relative;
+float:right;
+margin-left: 10px;
+}
+div.A div.A{
+top: 5px;
+}
+
+div.B div.B{
+top: -7px;
+}

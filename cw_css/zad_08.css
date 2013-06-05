@@ -1,0 +1,21 @@
+div.C {
+float:left;
+margin: 0 auto;
+padding: 0em 1em 1em 0;
+border: solid 2px red;
+background-color: #FFEE77;
+
+}
+
+div{
+position:relative;
+float:right;
+margin-left: 10px;
+}
+div.A div.A{
+top: 5px;
+}
+
+div.B div.B{
+top: -7px;
+}
